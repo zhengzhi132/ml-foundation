@@ -1,0 +1,5 @@
+# 数据库配置（注释行会被跳过）
+DB_HOST=localhost
+DB_PORT=3306
+DB_NAME=myapp
+CONNECTION_STRING=jdbc:mysql://localhost:3306/myapp
